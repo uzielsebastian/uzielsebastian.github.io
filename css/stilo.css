@@ -1,0 +1,99 @@
+body{
+    background-color: #333344;
+    color: #A2BDB9;
+}
+
+p{
+    font-family: 'Neuton', serif;
+    letter-spacing: 5px;
+}
+
+h1{
+
+    font-family: 'Neuton', serif;
+    letter-spacing: 20px;
+
+}
+
+h3{
+
+    font-family: 'Neuton', serif;
+    letter-spacing: 20px;
+
+}
+
+div{
+    text-align: center;
+}
+
+
+
+.icon{
+    display: block  ;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 6%;
+    max-width: 90%;
+    height: auto;
+    border-radius: 50%  ;
+}
+
+#instagram{
+    display: block  ; 
+    max-width: 30%;
+    
+    
+
+}
+
+.iconitos{
+    width: 80px;
+    height: 80px;
+    text-align: center;
+}
+
+ul li {
+    display: inline-block; 
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button{
+    text-align: center;
+    background-color: #5A5E7A;
+    padding: 10px; 
+    border: none; 
+    box-shadow: -5px 5px 0px 0px #000;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+a{
+    color: #A2BDB9;
+    text-decoration: none;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+.boton{
+    text-align: center;
+    display: block;
+
+}
+
+p{
+    text-align: center;
+}
+
